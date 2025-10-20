@@ -35,7 +35,7 @@ print(f"\n{np.sort(arr,axis=0)}")
 
 ## Result
 The program successfully accepts a 2D array from the user, sorts each column in ascending order, and prints both the original and column-wise sorted arrays using NumPy.
-# # NumPy Program: Find Indices Where Elements in Array x are Greater Than or Equal to Corresponding Elements in Array y
+# NumPy Program: Find Indices Where Elements in Array x are Greater Than or Equal to Corresponding Elements in Array y
 
 ## 🎯 Aim
 To write a Python program using *NumPy* that finds the indices where elements in array x are greater than or equal to their corresponding elements in array y.
